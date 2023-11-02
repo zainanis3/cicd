@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        cicd test 1
+        cicd test v 2.0
         </p>
         <a
           className="App-link"
